@@ -1,0 +1,28 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e4]:
+    - generic [ref=f3e5] [cursor=pointer]:
+      - generic [ref=f3e6]: "1"
+      - generic [ref=f3e8]: Grass
+    - generic [ref=f3e9] [cursor=pointer]:
+      - generic [ref=f3e10]: "2"
+      - generic [ref=f3e12]: Dirt
+    - generic [ref=f3e13] [cursor=pointer]:
+      - generic [ref=f3e14]: "3"
+      - generic [ref=f3e16]: Stone
+    - generic [ref=f3e17] [cursor=pointer]:
+      - generic [ref=f3e18]: "4"
+      - generic [ref=f3e20]: Wood
+    - generic [ref=f3e21] [cursor=pointer]:
+      - generic [ref=f3e22]: "5"
+      - generic [ref=f3e24]: Leaves
+    - generic [ref=f3e25] [cursor=pointer]:
+      - generic [ref=f3e26]: "6"
+      - generic [ref=f3e28]: Sand
+  - generic: "⛏️ MiniCraft60 fps · x24.5 y4.9 z24.5Fly: OFF"
+  - generic [ref=f3e29]: "Left-click: break · Right-click: place · F: fly"
+  - generic [ref=f3e31]:
+    - heading "⛏️ MINICRAFT" [level=1] [ref=f3e32]
+    - paragraph [ref=f3e33]: A tiny Minecraft in your browser. Procedural terrain, trees, mining & building.
+    - paragraph [ref=f3e34]: WASD move · Space jump · Mouse look Left click destroy block · Right click place block 1–6 / wheel to pick block · F toggle fly · Space/Shift up/down when flying
+    - button "▶ Play" [ref=f3e35] [cursor=pointer]
+    - paragraph [ref=f3e36]: Click Play, then click again to lock the mouse. Press Esc to release.
