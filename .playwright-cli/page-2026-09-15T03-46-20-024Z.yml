@@ -1,0 +1,52 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]: 🟢 10,039 blocks · 📍 20.5, 6.0, 20.5 LMB break · RMB place · 1–6 select · F fly · Space jump
+  - generic [ref=e5]:
+    - generic [ref=e6] [cursor=pointer]:
+      - generic [ref=e7]: "1"
+      - text: Grass
+    - generic [ref=e9] [cursor=pointer]:
+      - generic [ref=e10]: "2"
+      - text: Dirt
+    - generic [ref=e12] [cursor=pointer]:
+      - generic [ref=e13]: "3"
+      - text: Stone
+    - generic [ref=e15] [cursor=pointer]:
+      - generic [ref=e16]: "4"
+      - text: Wood
+    - generic [ref=e18] [cursor=pointer]:
+      - generic [ref=e19]: "5"
+      - text: Sand
+    - generic [ref=e21] [cursor=pointer]:
+      - generic [ref=e22]: "6"
+      - text: Plank
+  - generic [ref=e24]: 60 fps
+  - generic [ref=e26] [cursor=pointer]:
+    - heading "MINICRAFT" [level=1] [ref=e27]
+    - paragraph [ref=e28]: A tiny Minecraft in one HTML file — explore, mine & build.
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - generic [ref=e31]: W A S D
+        - text: move
+      - generic [ref=e32]:
+        - generic [ref=e33]: Mouse
+        - text: look
+      - generic [ref=e34]:
+        - generic [ref=e35]: Space
+        - text: jump / fly up
+      - generic [ref=e36]:
+        - generic [ref=e37]: Shift
+        - text: fly down / sprint
+      - generic [ref=e38]:
+        - generic [ref=e39]: Left click
+        - text: destroy block
+      - generic [ref=e40]:
+        - generic [ref=e41]: Right click
+        - text: place block
+      - generic [ref=e42]:
+        - generic [ref=e43]: 1 – 6
+        - text: select block
+      - generic [ref=e44]:
+        - generic [ref=e45]: F
+        - text: toggle fly
+    - button "⛏ Click to Play" [ref=e46]
+    - paragraph [ref=e47]: World auto-saves to localStorage · R resets world
